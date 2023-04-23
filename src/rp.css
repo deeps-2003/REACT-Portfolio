@@ -1,0 +1,9 @@
+.abc {
+    top: 100px;
+    left: 50vh;
+    position: absolute;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 30px;
+    text-align: center;
+    }

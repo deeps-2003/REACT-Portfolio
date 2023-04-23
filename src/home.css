@@ -1,0 +1,38 @@
+.btn_primary1{
+    padding:20px;
+    width:200px;
+    height:20px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+    box-sizing: content-box;
+    width: 10%;
+    border: solid #5B6DCD 5px;
+    padding: 5px;
+  }
+    .btn_primary2{
+    padding:20px;
+    width:250px;
+    height:20px;
+    font-size: 20px;
+    margin-left:200px;
+    box-sizing: content-box;
+    width: 12%;
+    border: solid #5B6DCD 5px;
+    padding: 5px;
+  }
+  .btn_primary3{
+    padding:20px;
+    width:200px;
+    height:20px;
+    font-size: 20px;
+    margin-left:200px;
+    box-sizing: content-box;
+    width: 10%;
+    border: solid #5B6DCD 5px;
+    padding: 5px;
+  }
+
+  .heading{
+    font-size: 20px;
+  }
